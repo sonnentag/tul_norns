@@ -16,8 +16,8 @@ Nick wrote the BBCut libraries we include in Second/step 2
 ####
 ### Getting Started With SuperCollider - The official SC3 Docs
 ##### https://doc.sccode.org/Tutorials/Getting-Started/00-Getting-Started-With-SC.html
-####
-####
+
+
 ### To get started, install supercollider and load 
 ### the code in [First](First/README.md) to test your setup
 ### and to confirm that you have audio output.
