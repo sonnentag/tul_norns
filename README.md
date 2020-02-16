@@ -11,7 +11,7 @@ sc3, pd, norns
 ##### https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf
 ####
 ### Nick Collins' SuperCollider Tutorial
-#### Nick wrote the BBCut libraries we include in Second/step 2
+Nick wrote the BBCut libraries we include in Second/step 2
 ##### https://composerprogrammer.com/teaching/supercollider/sctutorial/tutorial.html
 ####
 ### Getting Started With SuperCollider - The official SC3 Docs
