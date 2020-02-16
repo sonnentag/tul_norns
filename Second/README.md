@@ -1,4 +1,4 @@
-# tul_norns
+# tul_norns - 2
 sc3, pd, norns
 ## Getting Started with SuperCollider - Second example to demo / test
 ##
