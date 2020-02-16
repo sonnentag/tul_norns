@@ -24,7 +24,7 @@ Routine.run({
 SynthDef(\limiter,{ReplaceOut.ar(0,Limiter.ar(In.ar(0,2),0.99))}).play(Group.after(Node.basicNew(s,1)));
 
 //choose a stereo file you want to track
-~source=Buffer.read(s,"sounds/amen.wav");
+~source=Buffer.read(s,"/usr/share/SuperCollider/sounds/amen.wav");
 
 s.sync;
 
@@ -83,7 +83,7 @@ f=BBCut2(CutGroup(CutStream1(~trackbus.index, nil),numChannels:2), SQPusher1.new
 
 
 
-~database.threshold_(0.02); //make it extremely event trigger happy
+~database.threshold_(0.01); //make it extremely event trigger happy
 
 a.end;
 b.end;
