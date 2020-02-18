@@ -28,4 +28,4 @@ Nick wrote the BBCut libraries we include in Second/step 2
 
 &nbsp;
 
-### Next, add the BBCut2 library, copy the amen.wav (or other breatbeat you choose) to 'sounds', load an sc from [Second](Second/README.md) and edit it to include the correct path to your wav then 'evaluate' it to confirm BBCut2 and loading a local audio file works.
+### Next, add the BBCut2 library, copy the amen.wav (or other breakbeat you choose) to 'sounds', load an sc from [Second](Second/README.md) and edit it to include the correct path to your wav then 'evaluate' it to confirm BBCut2 and loading a local audio file works.
