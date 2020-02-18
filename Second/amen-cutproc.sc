@@ -10,12 +10,12 @@ Or see the MultiProc help file for fill pattern examples
 (
 var sf, clock, cutsynth, cutproc;
 
-clock= ExternalClock(TempoClock(2.7725));
+clock= ExternalClock(TempoClock(2.3));
 clock.play;
 
 Routine.run({
 
-sf= BBCutBuffer("/usr/share/SuperCollider/sounds/amen.wav",32);
+sf= BBCutBuffer("/usr/share/SuperCollider/sounds/amen.wav",16);
 
 s.sync; //this forces a wait for the Buffer to load
 
