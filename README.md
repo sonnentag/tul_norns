@@ -3,7 +3,7 @@ sc3, pd, norns
 ## Getting Started with SuperCollider:
 ####
 ###  Intro to SuperCollider for the Uninitiated
-##### https://scacinto.wordpress.com/2014/02/24/intro-to-supercollider-3-for-the-uninitiated/
+##### https://www.scottericpetersen.com/2014/02/24/intro-to-supercollider-3-for-the-uninitiated/
 &nbsp;
 
 ### A Gentle Introduction to SuperCollider
